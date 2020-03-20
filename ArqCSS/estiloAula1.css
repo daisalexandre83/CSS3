@@ -1,0 +1,12 @@
+#box {
+    width: 500px;
+    height: 500px;
+    background: #b9c941;
+    padding: 50px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    /*border-radius: 20px;
+    -webkitkit-border-radius: 20px;
+    -moz-border-radius: 20px;*/
+}

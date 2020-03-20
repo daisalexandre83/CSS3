@@ -1,0 +1,17 @@
+/*#box {
+    width: 500px;
+    height: 500px;
+    background: url("../img/camera-canon.jpg");
+}
+
+#box h1 {
+    background: rgba(255, 255, 255, 0.5);
+    border-bottom: 2px solid #FFF;
+}*/
+
+#box {
+    width: 500px;
+    height: 500px;
+    /* background: linear-gradient(80deg, red, yellow);*/
+    background: radial-gradient(red, yellow, red, yellow);
+}
